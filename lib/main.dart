@@ -153,6 +153,7 @@ class ChatScreen extends StatelessWidget {
                                 size.width * 0.3, 2.5, 2.5, 2.5),
                             width: size.width * 0.65,
                             child: Card(
+                              color: Colors.blue[50],
                               elevation: 3.0,
                               shape: RoundedRectangleBorder(
                                 borderRadius: BorderRadius.circular(8.0),
